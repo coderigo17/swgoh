@@ -30,6 +30,8 @@ def main():
 
         guild_gps.append([p_name, p_cgp, p_sgp, p_gp])
 
+    guild_gps.sort(key=lambda x: x[0])
+
     print(tabulate(guild_gps, headers=['Player name', 'Character GP', 'Ship GP', 'Total GP']))
 
 if __name__ == '__main__':
