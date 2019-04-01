@@ -1,0 +1,184 @@
+Name: Cathers 
+GP: 3895253
+Banner goal: 278.23235714285715
+
+Name: Orleans the First 
+GP: 2957086
+Banner goal: 211.22042857142858
+
+Name: TrishLord99 
+GP: 3396772
+Banner goal: 242.62657142857145
+
+Name: Sparklelord 
+GP: 3182066
+Banner goal: 227.29042857142855
+
+Name: Sparklemissus 
+GP: 2376850
+Banner goal: 169.775
+
+Name: William T Riker 
+GP: 3697865
+Banner goal: 264.1332142857143
+
+Name: zepplin 
+GP: 4176379
+Banner goal: 298.3127857142857
+
+Name: ViperPete 
+GP: 3923673
+Banner goal: 280.2623571428571
+
+Name: Grimaldi 
+GP: 2931441
+Banner goal: 209.38864285714286
+
+Name: Kriz 
+GP: 3474066
+Banner goal: 248.1475714285714
+
+Name: Miahalex420 
+GP: 2978306
+Banner goal: 212.73614285714285
+
+Name: Bad Pappy 
+GP: 3075848
+Banner goal: 219.70342857142856
+
+Name: SLOAN 
+GP: 3226656
+Banner goal: 230.47542857142855
+
+Name: Lacutas 
+GP: 4105662
+Banner goal: 293.2615714285714
+
+Name: Phanatic 
+GP: 3730525
+Banner goal: 266.4660714285714
+
+Name: Emberwild 
+GP: 4188272
+Banner goal: 299.1622857142857
+
+Name: Angelus Nex 
+GP: 3620571
+Banner goal: 258.6122142857143
+
+Name: NightWalker 
+GP: 3593502
+Banner goal: 256.67871428571425
+
+Name: Gladio Oppresso 
+GP: 3615758
+Banner goal: 258.26842857142856
+
+Name: En Brigar 
+GP: 3283645
+Banner goal: 234.54607142857142
+
+Name: Dasherga 
+GP: 2826450
+Banner goal: 201.88928571428573
+
+Name: Fear the Reaper 
+GP: 3605856
+Banner goal: 257.56114285714284
+
+Name: Spike9660 
+GP: 2419149
+Banner goal: 172.79635714285715
+
+Name: BlockDesperado 
+GP: 4005719
+Banner goal: 286.1227857142857
+
+Name: Terja Washr 
+GP: 3256908
+Banner goal: 232.63628571428572
+
+Name: Sinidius 
+GP: 3925457
+Banner goal: 280.3897857142857
+
+Name: Jordey Dathas 
+GP: 3369376
+Banner goal: 240.6697142857143
+
+Name: Nivek Balock 
+GP: 3671894
+Banner goal: 262.2781428571428
+
+Name: Zoo Nami 
+GP: 3784452
+Banner goal: 270.31800000000004
+
+Name: LetQuigonsbeQuigons 
+GP: 3799414
+Banner goal: 271.3867142857143
+
+Name: Cyan Sparrow 
+GP: 3388611
+Banner goal: 242.04364285714286
+
+Name: DBCooper 
+GP: 3201844
+Banner goal: 228.70314285714284
+
+Name: ERIC SEABLADE 
+GP: 3580548
+Banner goal: 255.75342857142854
+
+Name: lil' Q 
+GP: 2319546
+Banner goal: 165.68185714285715
+
+Name: kristilovescake 
+GP: 2872391
+Banner goal: 205.1707857142857
+
+Name: Taffyforce 
+GP: 3672957
+Banner goal: 262.35407142857144
+
+Name: RamblinAlaskan7 
+GP: 3930865
+Banner goal: 280.7760714285714
+
+Name: D4rth M4ul 
+GP: 3712067
+Banner goal: 265.1476428571429
+
+Name: process 
+GP: 3616450
+Banner goal: 258.3178571428571
+
+Name: mko 
+GP: 4578699
+Banner goal: 327.04992857142855
+
+Name: gamerigo17 
+GP: 2840423
+Banner goal: 202.88735714285716
+
+Name: FartMaster 
+GP: 2356106
+Banner goal: 168.29328571428573
+
+Name: Taco 
+GP: 2199549
+Banner goal: 157.11064285714286
+
+Name: crazytaco 
+GP: 4145182
+Banner goal: 296.0844285714286
+
+Name: gnz 
+GP: 1872490
+Banner goal: 133.7492857142857
+
+Name: CipherNine9 
+GP: 3504810
+Banner goal: 250.3435714285714
+
