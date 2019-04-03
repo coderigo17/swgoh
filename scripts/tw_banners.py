@@ -2,6 +2,8 @@
 
 import json, requests
 
+from tabulate import tabulate
+
 # Unseen swgoh.gg guild id is 1154. Change below value to test on other guilds
 guild_id = 1154
 
@@ -21,6 +23,8 @@ def main():
     # Convert response to JSON and format nicely (for dev purposes)
     json_data = json.dumps(res.json(), indent=4, separators=(',', ': '))
 
+    tw_goals = []
+
     # Print output (ideally piped to a file via command line)
     for player in json.loads(json_data)['players']:
         p_name = player['data']['name']
@@ -28,7 +32,11 @@ def main():
 
         p_banner_goal = (p_gp / t_gp) * banner_goal
 
-        print(f"Name: {p_name} \nGP: {p_gp}\nBanner goal: {p_banner_goal}\n")
+        tw_goals.append([p_name, round(p_banner_goal)])
+
+    tw_goals.sort(key=lambda x: x[0])
+
+    print(tabulate(tw_goals, headers=['Player name', 'Banner goal']))
 
 if __name__ == '__main__':
     main()
